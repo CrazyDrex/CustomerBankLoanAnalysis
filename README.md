@@ -1,6 +1,5 @@
-**Title: Project: Bank Loan Analysis in Finance Domain
+Project: Bank Loan Analysis 
 
-GitHub Repository: Bank-Loan-Analysis
 
 Overview This GitHub repository contains a comprehensive analysis of bank loans in the finance domain. The project leverages two datasets, Finance_1.xlsx and Finance_2.xlsx, each containing over 39,000 records. The analysis encompasses data cleaning, visualization, and addressing key performance indicator (KPI) questions related to various aspects of bank loans.
 
@@ -22,4 +21,4 @@ Optimize loan strategies by analyzing year-wise loan amount statistics. Gain a d
 
 Project Summary**** A detailed project summary and insights report can be found in the attached PDF document, providing a holistic overview of the project's findings and recommendations.
 
-Project Contributors This project was completed by a team of dedicated individuals during an internship provided through ExcelR. It represents the collaborative efforts of the team members in analyzing and visualizing the data to derive actionable insights. Feel free to explore the repository, review the code, and refer to the PDF summary document for a comprehensive understanding of the project's goals, methods, and outcomes. Thank you for your interest in our bank loan analysis project in the finance domain. We hope you find the insights valuable and informative.
+Project Contributors This project was completed by a team of dedicated individuals during an internship provided through AI Variant. It represents the collaborative efforts of the team members in analyzing and visualizing the data to derive actionable insights. Feel free to explore the repository, review the code, and refer to the PDF summary document for a comprehensive understanding of the project's goals, methods, and outcomes. Thank you for your interest in our bank loan analysis project in the finance domain. We hope you find the insights valuable and informative.
